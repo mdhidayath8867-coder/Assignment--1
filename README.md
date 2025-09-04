@@ -1,3 +1,4 @@
-# Assignment--1
+git-assignment-1
+
 code.txt
 output.txt
